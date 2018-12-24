@@ -1,0 +1,12 @@
+name: plumber-echo
+title: plumber-echo
+username: cole
+account: cole
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 1900
+bundleId: 24322
+url: https://colorado.rstudio.com:443/rsc/content/1900/
+when: 1545619921.01453
+asMultiple: FALSE
+asStatic: FALSE

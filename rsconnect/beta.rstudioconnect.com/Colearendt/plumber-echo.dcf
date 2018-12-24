@@ -1,0 +1,12 @@
+name: plumber-echo
+title: plumber-echo
+username: Colearendt
+account: Colearendt
+server: beta.rstudioconnect.com
+hostUrl: https://beta.rstudioconnect.com/__api__
+appId: 4506
+bundleId: 10363
+url: https://beta.rstudioconnect.com/get-ip/
+when: 1545620440.53382
+asMultiple: FALSE
+asStatic: FALSE
